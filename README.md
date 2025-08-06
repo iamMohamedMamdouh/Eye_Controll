@@ -95,7 +95,4 @@ This project is open-source under the MIT License.
 
 ## 🤝 Contribute
 
-Feel free to fork the repo, open issues, or suggest features
-🤝 Contribute
-
 Feel free to fork the repo, open issues, or suggest features!
