@@ -24,21 +24,33 @@
 ## 📸 How it works
 
 Camera captures the user's face in real-time.
+
 Mediapipe detects facial landmarks to determine eye movement and blinks.
+
 PyAutoGUI controls the mouse pointer.
+
 Tkinter GUI shows a clickable Japanese keyboard.
+
 Selected text is translated and spoken using Google Text-to-Speech.
+
 
 
 ## 🛠 Tech Stack
 
 Python 3.9+
+
 OpenCV
+
 MediaPipe
+
 Tkinter
+
 gTTS
+
 pygame
+
 pyautogui
+
 deep_translator
 
 
@@ -60,18 +72,24 @@ python keyboard_control.py
 ## 🧑‍💻 Use Cases
 
 Assistive technology for people with limited mobility.
+
 Language learning for Japanese with real-time pronunciation and translation.
+
 Human-computer interaction experiments.
 
 
 ## 📌 Known Limitations
 
 May experience latency depending on CPU.
+
 Accuracy of eye tracking depends on lighting and camera angle.
+
 No full text prediction yet — limited to character-by-character input.
 
 
+
 ## 📜 License
+
 This project is open-source under the MIT License.
 
 
