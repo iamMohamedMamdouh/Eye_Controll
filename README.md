@@ -1,4 +1,4 @@
-#👁 Eye-Controlled Japanese Virtual Keyboard 🇯🇵
+# 👁 Eye-Controlled Japanese Virtual Keyboard 🇯🇵
 
 This is an AI-powered assistive technology project that allows users to control the mouse with their eyes and type Japanese characters using a virtual keyboard — with real-time Arabic translation and Japanese speech synthesis. It's designed with accessibility in mind, especially for users with motor disabilities or for use in hands-free environments.
 
