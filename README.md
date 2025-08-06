@@ -6,12 +6,19 @@
 ## 🧠 Features
 
 👁 Eye-controlled mouse pointer using MediaPipe FaceMesh.
+
 🖱 Click by blinking (left or right eye configurable).
+
 ⌨ On-screen Japanese Hiragana keyboard built with Tkinter.
+
 🔁 Live Arabic translation using Google Translate API.
+
 🔊 Japanese speech output with gTTS and pygame.
+
 🗑 Clear all / ⌫ Delete last character buttons.
+
 🧩 Multithreaded: Keyboard runs independently from eye tracker.
+
 
 
 ## 📸 How it works
